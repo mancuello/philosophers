@@ -26,8 +26,6 @@
 		- [Output Format](#output-format)
 	- [Implementation Details](#-implementation-details)
 		- [Project Structure](#project-structure)
-		- [Key Data Structures](#key-data-structures)
-		- [Deadlock Prevention](#deadlock-prevention)
 	- [Testing Tips](#-testing-tips)
 
 ---
@@ -186,7 +184,3 @@ valgrind --tool=helgrind ./philo 5 800 200 200
 ```
 
 ---
-
-<p align="center">
-  Made with ☕ and too much concurrency at <a href="https://42urduliz.com/">42 Urduliz</a>
-</p>
