@@ -93,7 +93,7 @@ Each philosopher runs in its own **thread**. Each fork is protected by a **mutex
 ### Compilation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/philosophers.git
+git clone https://github.com/mancuello/philosophers.git
 cd philosophers/philo
 make
 ```
