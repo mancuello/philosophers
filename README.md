@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Philosophers](#-philosophers)
 	- [About](#-about)
@@ -30,13 +30,13 @@
 
 ---
 
-## 📖 About
+## About
 
 This project is a simulation of the classic **Dining Philosophers Problem**, a famous concurrency problem formulated by Edsger W. Dijkstra. The goal is to learn about threading, mutexes, and the challenges of concurrent programming — particularly **race conditions**, **deadlocks**, and **data races**.
 
 ---
 
-## 🍴 The Problem
+## The Problem
 
 A group of philosophers sit around a circular table. Between each pair of adjacent philosophers lies a fork. A philosopher can only eat if they hold **both** the left and right forks. Philosophers alternate between three states:
 
