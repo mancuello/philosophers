@@ -94,7 +94,7 @@ Each philosopher runs in its own **thread**. Each fork is protected by a **mutex
 
 ```bash
 git clone https://github.com/mancuello/philosophers.git
-cd philosophers/philo
+cd philosophers
 make
 ```
 
